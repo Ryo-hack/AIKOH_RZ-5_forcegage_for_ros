@@ -12,7 +12,7 @@
 
 ##Installation
 cd catkin_ws/src
-git clone 
+git clone https://github.com/Ryo-hack/AIKOH_RZ-5_forcegage_for_ros.git
 source ~/catkin_ws/devel/setup.bash
 ## Usage
 sudo chmod 777 /dev/ttyUSB"NUM"
