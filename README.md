@@ -15,9 +15,10 @@
 
 ## Installation <br>
 
-     - `cd catkin_ws/src`  <br>
-     - `git clone https://github.com/Ryo-hack/AIKOH_RZ-5_forcegage_for_ros.git` <br>
-     - `source ~/catkin_ws/devel/setup.bash`   <br>
+     - `cd catkin_ws/src`  
+     - `git clone https://github.com/Ryo-hack/AIKOH_RZ-5_forcegage_for_ros.git` 
+     - `source ~/catkin_ws/devel/setup.bash`   
+     
 ## Usage
 
 フォースゲージをUSB接続 <br>
