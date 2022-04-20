@@ -15,7 +15,8 @@
 多分他環境でも動く
 
 ##Installation
-     - `cd catkin_ws/src`  
+     - `cd catkin_ws/src` 
+     
      - `git clone https://github.com/Ryo-hack/AIKOH_RZ-5_forcegage_for_ros.git`
      - `source ~/catkin_ws/devel/setup.bash`  
 ## Usage
