@@ -4,7 +4,7 @@
 フォースゲージ（AIKOH_RZ-5）のROSパッケージ。 <br>
 詳細：https://www.aikoh.co.jp/forcegauge/rz/ <br>
 
-![AIKOH_RZ-5](https://user-images.githubusercontent.com/36100321/140645407-81af34fd-451e-4b16-b041-acf035970be1.jpeg) <br>
+![AIKOH_RZ-5](https://user-images.githubusercontent.com/56574063/164232267-6496de6f-6890-427c-a996-e86fa7fa0d8b.png) <br>
 
 ## Requirement <br>
 
