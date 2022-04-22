@@ -16,12 +16,19 @@
 ## Installation <br>
      - cd catkin_ws/src
      - git clone https://github.com/Ryo-hack/AIKOH_RZ-5_forcegage_for_ros.git
+     - catkin build
+     - sudo chmod 777 ~/catkin_ws/src/AIKOH_RZ-5_forcegage_for_ros/src/force_gage_read_serial.py
      - source ~/catkin_ws/devel/setup.bash 
      
 ## Usage
 
-フォースゲージをUSB接続 <br>
- - `sudo chmod 777 /dev/ttyUSB"NUM"`   <br>
+- フォースゲージをUSB接続 <br>
+- 権限の付与<br>
+  `sudo chmod 777 /dev/ttyUSB"NUM"` <br>
+- 実行
+  `rosrun AIKOH_RZ-5_forcegage_for_ros force_gage_read_serial.py` <br>
+node名：AIKOH_forcegage
+publisher:AIKOH_forcegage
 
 ## Features
 
