@@ -8,16 +8,15 @@
 
 ## Requirement <br>
 
--ubuntu 18.04 <br>
+- ubuntu 18.04 <br>
 - python2系 <br>
 - ROS melodic <br>
 多分他環境でも動く
 
 ## Installation <br>
-
-     - `cd catkin_ws/src`  
-     - `git clone https://github.com/Ryo-hack/AIKOH_RZ-5_forcegage_for_ros.git` 
-     - `source ~/catkin_ws/devel/setup.bash`   
+     - cd catkin_ws/src
+     - git clone https://github.com/Ryo-hack/AIKOH_RZ-5_forcegage_for_ros.git
+     - source ~/catkin_ws/devel/setup.bash 
      
 ## Usage
 
